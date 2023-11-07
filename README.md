@@ -1,5 +1,7 @@
-# MLS_Project
-Machine Learning and Statistics
+# Machine Learning and Statistics
 
-### test for git
+Sarah Hastings
 
+## How to use this repository 
+
+1. Install Anaconda . . . 
