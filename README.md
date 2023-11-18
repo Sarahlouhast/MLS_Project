@@ -1,6 +1,6 @@
 # Machine Learning and Statistics
 
-Sarah Hastings
+Sarah Hastings 
 
 ## How to use this repository 
 
