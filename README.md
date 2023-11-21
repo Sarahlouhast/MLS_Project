@@ -4,4 +4,6 @@ Sarah Hastings
 
 ## How to use this repository 
 
-1. Install Anaconda . . . 
+1. Install Anaconda . . .
+
+
