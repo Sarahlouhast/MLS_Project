@@ -6,4 +6,7 @@ Sarah Hastings
 
 1. Install Anaconda . . .
 
+
+d
+
 updates
