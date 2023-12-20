@@ -6,6 +6,7 @@ Sarah Hastings
 
 1. Install Anaconda . . .
 
+readme
 
 d
 
