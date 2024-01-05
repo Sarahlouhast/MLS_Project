@@ -21,9 +21,24 @@ Tasks https://atlantictu-my.sharepoint.com/personal/ian_mcloughlin_atu_ie/_layou
 
 ## running the code
 1. install anaconda
+
+It can be installed using the Anaconda python distribution, https://www.anaconda.com/.
+
+
 2. install vsc
+
+https://code.visualstudio.com/Download
+
+
 3. clone repos
+
+### Instructions for downloading this repository
+Log on to GitHub and search for user Sarahlouhast, the repository is entitled MLS_Project, https://github.com/Sarahlouhast/MLS_Project. You can chose click on the code button and chose to clone the repository or download as a zip file onto your machine. For further information on how github works video guides are available here https://www.youtube.com/githubguides.
+
 4. open repos in vsc
+
+
+https://code.visualstudio.com/docs/sourcecontrol/github
 
 ## issues
 
